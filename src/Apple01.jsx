@@ -21,7 +21,7 @@ const Apple01 = () => {
       <div className="black-nav">
         <h4 style={ {color: 'red', fontSize : '30px'} }>{ logo }</h4>
       </div>
-      {/* useState를 각 리스트마다 생성해서 반영하는 방법 */}
+      {/* useState를 각 리스트마다 생성해서 반영하는 방법zz */}
       {/* <div className="list">
       <h4>{ 글제목1 }</h4>
       <p>2월 17일 발행</p>
